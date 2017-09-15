@@ -1,0 +1,6 @@
+[package]
+name = "blazingnet"
+version = "0.1.0"
+authors = ["jojo <jojolepromain@gmail.com>"]
+
+[dependencies]
